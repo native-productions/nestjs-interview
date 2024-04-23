@@ -1,8 +1,8 @@
 ![Alt text](cover.png)
 
-# Spellbook NestJS Test
+# NVP NestJS Test
 
-Hey 👋 Welcome to Spellbook's NestJS Test - v1. The goal of this exercise is to determine your level of understanding of NestJS at a fundamental level. This test is intended for mid-level developers.
+Hey 👋 Welcome to NVP NestJS Test - v1. The goal of this exercise is to determine your level of understanding of NestJS at a fundamental level. This test is intended for mid-level developers.
 
 ## The App
 
